@@ -1,0 +1,22 @@
+Lesson 4
+
+So now in this lesson we're going to install some software from the command line.
+
+In linux systems, software is often installed using a 'package manager'.
+
+The first thing we'll do is to make sure everything else is up-to-date. WE can do this with the following commands.
+
+sudo apt-get update
+sudo apt-get upgrade
+
+We can also use apt-get to install new software
+
+sudo apt-get install bsdgame
+
+What is apt-get?
+
+The 'apt' part of this command refers to the Advanced Package Tool (APT), the library of software applications used by Debian. Apt-get is a utility to install packages from this library.
+
+In Raspbian, the package manager is apt-get.
+
+Sudo refers to the superuser, or root user of the machine. This might prompt you for your password. It's to make sure you have permission to install new software.

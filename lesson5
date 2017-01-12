@@ -1,0 +1,22 @@
+Ok, almost there now! You made it to lesson 5.
+
+Let's install some new educational software that we can make available in our library.
+
+There's a list of educational software that's available in the debian repository, though not all of it has been ported to the Raspberry Pi.
+
+
+https://packages.debian.org/stable/education/
+
+Let's install gcompris, an educational software package for children.
+
+apt-get install gcompris
+
+Others you might like to try:
+
+junior-education
+(Debian Jr. education applications)
+
+rurple-ng
+A package for learn programming in Python with a robot
+
+Try it, just use apt-get followed by the package name. (as listed above)

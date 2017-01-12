@@ -1,0 +1,75 @@
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;:  :;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;,    ;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;,     ;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;  ,;;,     :;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;    ..     ,;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;           ,;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;           ,;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;           .;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;.           .;;;;;;;;;;,;;;;;;;
+;;;;;;;;;;;;             ,;;;;;;;,   ;;;;;;
+;;;;;;;;;;;,              ,;;;;;,    :;;;;;
+;;;;;;;;;;;                ,;;;,     ;;;;;;
+;;;;;;;;;;;                 ,;,     ;;;;;;;
+;;;;;;;;;;;                        ;;;;;;;;
+;;;;;;;;;;;                       ;;;;;;;;;
+;;;;;;;;;;;                      ;;;;;;;;;;
+;;;;;;;;;;;                      ;;;;;;;;;;
+;;;;;;;;;;;                      ,;;;;;;;;;
+;;;;;;;;;;;,                      :;;;;;;;;
+;;;;;;;;;;;;                      .;;;;;;;;
+;;;;;;;;;;;;.                    `;;;;;;;;;
+;;;;;;;;;;;;,                   `;;;;;;;;;;
+;;;;;;;;;;;;                   `;;;;;;;;;;;
+;;;;;;;;;;;                   `;;;;;;;;;;;;
+;;;;;;;;;;                   ,;;;;;;;;;;;;;
+;;;;;;;;;     `;;;`        .;;;;;;;;;;;;;;;
+;;;;;;;;     `;;;;;;;,,,:;;;;;;;;;;;;;;;;;;
+;;;;;;;     `;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;     `;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;    `;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;   `;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;:;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+
+Welcome to CLI in 5!
+
+
+This is your file instructions. You first task is to create a new directory. You can call it my CLI-sandbox.
+
+To do this, type:
+mkdir cli-sandbox
+
+'mkdir' means 'make directory.
+
+To create a new directory, you type mkdir and then the name of your new directory.
+
+To navigate into the new directory, use cd (change directory)
+
+cd cli-sandbox
+
+If you want to move back to the parent directory, use
+
+cd ..
+
+And to move back to your home directory, just use plain ol' cd
+
+cd
+
+(if you try this one out, remember to navigate back to the lesson directory cd CLI-in-5)
+
+You can also get a list of files in a directory by using the list command
+
+ls
+
+And find out what your current directory is using:
+
+pwd
+
+This stands for 'Print the working directory'.
+
+Nice one! To start the next lesson, type:
+
+cat lesson2

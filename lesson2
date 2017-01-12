@@ -1,0 +1,23 @@
+Welcome to lesson 2!
+
+In this lesson, we're going to do a bit of tidying up.
+
+Now that we have a new directory to play with, let's move one of our files.
+
+We can do this using the move command - mv
+
+Let's crete a new file and move it into our sandbox folder.
+
+touch myNewFile.txt
+
+mv myNewFile.txt cli-sandbox/myNewFile.txt
+
+To check it's there ok, you can again use the cd (change directory) and list (ls) commands
+
+Or you combine them like this
+
+ls cli-sandbox.
+
+Great, now make sure you're in the main CLI-in-5 directory and you can start the next lesson with:
+
+cat lesson3
