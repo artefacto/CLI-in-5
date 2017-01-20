@@ -1,3 +1,11 @@
+___      _______  _______  _______  _______  __    _    _______
+|   |    |       ||       ||       ||       ||  |  | |  |       |
+|   |    |    ___||  _____||  _____||   _   ||   |_| |  |   ____|
+|   |    |   |___ | |_____ | |_____ |  | |  ||       |  |  |____
+|   |___ |    ___||_____  ||_____  ||  |_|  ||  _    |  |_____  |
+|       ||   |___  _____| | _____| ||       || | |   |   _____| |
+|_______||_______||_______||_______||_______||_|  |__|  |_______|
+
 Ok, almost there now! You made it to lesson 5.
 
 Let's install some new educational software that we can make available in our library.
@@ -19,4 +27,4 @@ junior-education
 rurple-ng
 A package for learn programming in Python with a robot
 
-Try it, just use apt-get followed by the package name. (as listed above)
+Try it, just use apt-get followed by the package name. (as listed above).

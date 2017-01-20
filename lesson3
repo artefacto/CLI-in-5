@@ -1,1 +1,34 @@
+___      _______  _______  _______  _______  __    _    _______
+|   |    |       ||       ||       ||       ||  |  | |  |       |
+|   |    |    ___||  _____||  _____||   _   ||   |_| |  |___    |
+|   |    |   |___ | |_____ | |_____ |  | |  ||       |   ___|   |
+|   |___ |    ___||_____  ||_____  ||  |_|  ||  _    |  |___    |
+|       ||   |___  _____| | _____| ||       || | |   |   ___|   |
+|_______||_______||_______||_______||_______||_|  |__|  |_______|
+
 #This is lesson 3
+
+In this lesson, we'll be working with text files using Nano.
+
+Nano is the Linux Command-Line Text Editor, it's already installed for you to use.
+
+To open a file with Nano, type nano filename
+
+e.g. nano myTextFile.txt
+
+You can also use full file paths:
+
+nano /path/to/file
+
+Like with the touch command, if you use nano with a file name that doesn't exist, it will create a new file.
+
+nano myNewFile
+
+You can use ctrl X to exit from Nano. If you've made any changes to your file, it will prompt you to either save or delete them.
+
+Try now creating a new file called nano-notes. Add your notes from this lesson to it and then save the file.
+
+Once you've had a chance to try out Nano, time to start the next lesson.
+
+Type:
+ cat lesson4
